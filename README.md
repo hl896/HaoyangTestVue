@@ -1,3 +1,4 @@
+
 # haoyangLi
 
 > My brilliant Nuxt.js project
@@ -19,4 +20,12 @@ $ npm start
 $ npm run generate
 ```
 
+# Usage
+```
+1. git clone this repo and cd HaoyangTestVue
+2. in terminal, run 'npm run dev'
+3. open your browser, go to 'http://localhost:3000/user/Firstname-Lastname-number'
+4. The h1 tag is rendered depending on what is in your url
+5. SSR structure in DOM.
+```
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
