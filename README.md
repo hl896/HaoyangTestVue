@@ -21,7 +21,7 @@ $ npm run generate
 ```
 
 # Usage
-```
+``` bash
 1. git clone this repo and cd HaoyangTestVue
 2. in terminal, run 'npm run dev'
 3. open your browser, go to 'http://localhost:3000/user/Firstname-Lastname-number'
